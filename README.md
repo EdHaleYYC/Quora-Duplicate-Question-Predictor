@@ -5,4 +5,4 @@ Built a model that can predict whether two questions are duplicates on the Quora
 Processed a dataset of text and applied XGBoost to predict duplicate questions with a 71% accuracy score.
 Future work could include data balancing techniques, creating different/more features, and applying a neural network.
 
-Main packages used are: pandas, numpy, mltk, sklearn, gensim, scipy, xgboost, matplotlib
+Main packages used are: pandas, numpy, nltk, sklearn, gensim, scipy, xgboost, matplotlib
